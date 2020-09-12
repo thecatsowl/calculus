@@ -1,1 +1,1 @@
-# calculus
+This site explores calculus.
