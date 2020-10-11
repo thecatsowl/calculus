@@ -1,0 +1,53 @@
+/********************************************************************************
+
+  Programmer: Robert Aguilar
+
+  Date:		  10/10/20
+
+  Filename:   purple.css
+
+
+********************************************************************************/
+
+body
+{
+	background-color: #800080;
+	color: #00ffff;
+}
+.h1_top
+{
+	text-align: center;
+}
+.nav_top
+{
+	text-align: center;
+}
+a:link
+{
+	color: #afeeee;	
+}
+a:visited
+{
+	color: #00ffff;
+}
+a:hover
+{
+	color: #e0ffff;
+}
+.space
+{
+	letter-spacing: 0.5em;
+	margin: .9em;
+	cursor: pointer;
+	text-decoration: underline;
+}
+footer
+{
+	text-align: center;
+}
+.dark-mode
+{
+	background-color: #333333;
+	color: #40e0d0;
+}
+
